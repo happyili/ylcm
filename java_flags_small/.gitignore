@@ -1,0 +1,10 @@
+out
+lib
+.DS_Store
+.idea
+*iml
+*ipr
+*iws
+target
+
+release.properties
